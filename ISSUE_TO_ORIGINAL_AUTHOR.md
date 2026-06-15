@@ -15,7 +15,7 @@ I really liked Notchprompt and built an unofficial Windows remake inspired by it
 
 The Windows version is open source here:
 
-<your notchprompt-win repo link>
+https://github.com/whhyy7335/notchprompt-win
 
 It currently supports:
 
@@ -31,4 +31,3 @@ I credited the original Notchprompt project clearly in the README and included t
 
 Thanks for the original idea and macOS implementation. If you prefer any wording around attribution, naming, or linking, I’m happy to adjust it.
 ```
-
